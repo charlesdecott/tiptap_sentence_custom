@@ -1,0 +1,11 @@
+{
+  "name": "@tiptap/extension-sentence",
+  "version": "2.0.0-beta.23",
+  "main": "src/index.ts",
+  "files": [
+    "src"
+  ],
+  "peerDependencies": {
+    "@tiptap/core": "^2.0.0-beta.1"
+  }
+}
